@@ -1,6 +1,7 @@
 export default class GomiCal {
   city_code: number;
   area_code: number;
+
   constructor(opts: {
     city: number,
     area: number

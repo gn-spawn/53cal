@@ -2,8 +2,8 @@
   "name": "53cal",
   "version": "1.0.0",
   "description": "Scrape the days of 53cal.jp",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/53cal.js",
+  "types": "dist/53cal.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
