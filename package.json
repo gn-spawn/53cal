@@ -1,0 +1,19 @@
+{
+  "name": "53cal",
+  "version": "1.0.0",
+  "description": "Scrape the days of 53cal.jp",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "~3.9.3"
+  },
+  "keywords": [
+    "53cal.jp"
+  ],
+  "author": "gn_spawn",
+  "license": "MIT"
+}
